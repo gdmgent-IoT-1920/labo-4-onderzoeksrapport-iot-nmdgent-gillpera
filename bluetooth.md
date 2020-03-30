@@ -26,7 +26,7 @@ Bovendien worden transmissies door slave-apparaten beheerd door het master-appar
 
 De frequentiehoppenreeks wordt bepaald door het Bluetooth-apparaatadres (BD_ADDR) van het masterapparaat. Het master-apparaat verzendt eerst een radiosignaal waarin binnen de reeks adressen om respons van de specifieke slave-apparaten wordt gevraagd. De slaven reageren en synchroniseren hun hopfrequentie en klok met die van het masterapparaat.
 
-## Verschillende veries
+## Verschillende versies
 
 Bluetooth is doorheen de jaren enorm verbeterd en vooral nog veelzijdiger gemaakt. Momenteel zitten we aan Bluetooth 5.0. De verschillende versies vereisen telkens nieuwe chips, dus het is niet zo dat je Bluetooth kunt updaten. 
 
