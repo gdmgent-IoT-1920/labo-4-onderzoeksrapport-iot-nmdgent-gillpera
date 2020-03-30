@@ -51,7 +51,6 @@ De Electronic Product Code in de chip is meestal een 96-bits datastring. De eers
 
 ![BLUETOOTH](https://meuleman.io/wp-content/uploads/2017/08/BLE-diagram-e1501846951397.png "Bluetooth Low Energy")
 
-
 ## Laag vermogensgebruik
 
 Draadloze communicatie heeft altijd de neiging om veel energie te verbruiken tijdens het verzenden en ontvangen van data. Met een groot energieverbruik zijn veel batterijen nodig om deze apparaten te voeden. Dit is vaak het knelpunt bij het ontwerpen van kleine draadloze apparaten. Bluetooth Low Energy is ontworpen om dit probleem aan te pakken. De belangrijkste reden voor het ontwerp van het BLE-protocol is het lage energieverbruik, zodat draadloze apparaten kunnen worden gevoed door kleine knoopcelbatterijen en daarnaast ook nog eens jarenlang mee kunnen gaan.
@@ -121,6 +120,18 @@ Bluetooth is met name populair in de IoT consumentenmarkt, waar het onder meer h
 - Ondanks het relatief lage energieverbruik van bluetooth, blijft het probleem van draadloze technologie dat je de apparaten tussendoor moet opladen. Vooral bij telefoons die constant hun bluetooth aan hebben staan, gaat de batterij snel leeg.
 
 - Je kunt zelf in je bluetooth instellingen zien welke bluetooth apparaten actief zijn. Dit is hartstikke handig om je luidspreker te vinden, maar deze informatie kan ook gebruikt worden als wapen. Hackers zien binnen enkele seconden welke apparaten zich om hen heen bevinden, en bepalen vanuit daar wie ze willen aanvallen.
+
+## Vergelijking Bluetooth & Bluetooth Low Energy
+
+|      Specification | Bluetooth                    | Bluetooth Low Energy                  |
+|----------------    |------------------------------|---------------------------------------|
+| Range              | 100 m                        | > 100 m                               |
+| Data Rate          | 1-3 Mbps                     | 1 Mbps                                |
+| Security           | 56/128-bit                   | 128-bit AES with Counter Mode CBC-MAC |
+| Latency            | Typically 100 ms             | 6 ms                                  |
+| Voice Capable      | Yes                          | No                                    |
+| Power Consumption  | 1 W                          | 0.01 to 0.5 W                         |
+| Time Lag           | <30 mA                       | <15 mA                                |
 
 
 ## Gevaren met Bluetooth
