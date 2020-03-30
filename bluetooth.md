@@ -1,6 +1,6 @@
 # IOT: onderzoeksrapport Bluetooth & Bluetooth Low Energy
 
-![BLUETOOTH](https://radar.avrotros.nl/fileadmin/imported/bluetooth_logo.jpg "Bluetooth Picture")
+![BLUETOOTH](https://simpeleuitleg.nl/images/artikelen/48_1.jpg "Bluetooth Picture")
 
 Bluetooth is een open standaard voor draadloze verbindingen tussen apparaten op korte afstand. Dankzij bluetooth kunnen bijvoorbeeld adresgegevens tussen mobiele telefoons worden uitgewisseld, kan snel vanaf een handheld computer worden geprint, of kan een mobiele telefoon worden uitgerust met een draadloze headset.
 
