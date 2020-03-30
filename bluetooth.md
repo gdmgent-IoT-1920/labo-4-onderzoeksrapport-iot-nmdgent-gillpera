@@ -158,20 +158,22 @@ Voor smarthomes is dit handig om te weten welke kamer de persoon zich bevindt.
 
 ## Bronnen
 
-[elprocus - Hoe werkt Bluetooth](https://www.elprocus.com/how-does-bluetooth-work/)
+[Elprocus - Hoe werkt Bluetooth?](https://www.elprocus.com/how-does-bluetooth-work/)
 
 [Meuleman - BLE populair](https://blog.meuleman.io/3-redenen-waarom-bluetooth-low-energy-zo-populair-is-geworden)
 
 [Wikipedia - Bluetooth](https://nl.wikipedia.org/wiki/Bluetooth)
 
-[Radar Avorotros - Wat is Bluetooth](https://radar.avrotros.nl/hulp-tips/hulpartikelen/item/bluetooth-wat-is-het-hoe-werkt-het-en-wat-heb-je-eraan/)
+[Radar Avorotros - Wat is Bluetooth?](https://radar.avrotros.nl/hulp-tips/hulpartikelen/item/bluetooth-wat-is-het-hoe-werkt-het-en-wat-heb-je-eraan/)
 
-[Mediamarkt - Wat is bluetooth](https://blog.mediamarkt.be/mobiel-digitaal/wat-is-bluetooth/)
+[Mediamarkt - Wat is bluetooth?](https://blog.mediamarkt.be/mobiel-digitaal/wat-is-bluetooth/)
 
 [InternetofThingsNederland - Bluetooth/Zigbee](https://internetofthingsnederland.nl/kennisbank/netwerken/bluetooth-zigbee/)
 
 [VPNgids - Bluetooth wat zijn de gevaren?](https://www.vpngids.nl/privacy/devices/bluetooth-gevaren/)
 
-[pcmweb - de geschiedenis en toekomst](https://pcmweb.nl/artikelen/audio/de-geschiedenis-en-toekomst-van-bluetooth/)
+[Pcmweb - De geschiedenis en toekomst](https://pcmweb.nl/artikelen/audio/de-geschiedenis-en-toekomst-van-bluetooth/)
 
 [Want - Binnen 10 sec gehackt](https://www.want.nl/bluetooth-gevaren-hack-blueborne/)
+
+[EDN - The basics of BLE](https://www.edn.com/the-basics-of-bluetooth-low-energy-ble/)
