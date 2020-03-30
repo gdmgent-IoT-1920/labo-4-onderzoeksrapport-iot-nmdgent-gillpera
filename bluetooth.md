@@ -49,7 +49,7 @@ Bluetooth Low Energy (BLE) is een draadloze technologie die de afgelopen jaren e
 
 De Electronic Product Code in de chip is meestal een 96-bits datastring. De eerste 8 bits van deze string vormen de header. In de header staat omschreven welk protocol er gebruikt wordt. De volgende 28-bits identificeren de organisatie welke de data op de tag beheerd. De organisatie is gekoppeld aan een ID nummer uitgegeven door de GS1. Dit nummer staat in deze 28-bits. De volgende 24-bits vormen de “object-class”. De “object-class” identificeert het type product. De laatste 38-bits vormen dan het unieke nummer voor tag. In grafische weergave ziet er dit als volgt uit:
 
-![BLUETOOTH](https://meuleman.io/wp-content/uploads/2017/08/BLE-diagram-e1501846951397.png "BLE picture")
+![BLUETOOTH](https://meuleman.io/wp-content/uploads/2017/08/BLE-diagram-e1501846951397.png "Bluetooth Low Energy")
 
 
 ## Laag vermogensgebruik
